@@ -149,7 +149,7 @@ Ejemplo: si quisiésemos nuestros elementos centrados en el medio exacto de un "
 div {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: space-between;
 }
 ```
 
